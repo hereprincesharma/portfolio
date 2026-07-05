@@ -3,4 +3,4 @@ A personal portfolio website built using HTML and CSS. The project is currently 
 
 ## Live Demo
 
-View the live website here: https://hereprincesharma.github.io/portfolio/
+View the live website here: [https://hereprincesharma.github.io/portfolio/](https://hereprincesharma.github.io/portfolio/)
