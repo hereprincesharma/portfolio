@@ -152,3 +152,9 @@ nav a {
     background-color:#FFBF00;
     margin-bottom:20px;
 }
+
+.content{
+    text-align:justify;
+    color:#a0a0a0;
+    font-family: sans-serif;
+}
