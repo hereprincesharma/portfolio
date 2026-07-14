@@ -15,11 +15,11 @@ Currently completed:
 * Sidebar design
 * Navigation links
 * Basic website layout
+* About Me section
 
 Upcoming sections:
 
 * Home section
-* About Me section
 * Skills section
 * Projects section
 * Contact section
