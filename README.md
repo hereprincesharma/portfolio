@@ -16,13 +16,13 @@ Currently completed:
 * Navigation links
 * Basic website layout
 * About Me section
+* Home section
+* Skills section
+* Contact section
 
 Upcoming sections:
 
-* Home section
-* Skills section
 * Projects section
-* Contact section
 * Responsive design improvements
 
 ## Technologies Used
